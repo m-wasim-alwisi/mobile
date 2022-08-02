@@ -1,6 +1,6 @@
 
 function ip() { 
-    document.getElementById("hd").style.background = "url(ezgif-4jpg.jpg)";  
+    document.getElementById("hd").style.background = "url(iphone-13.jpg)";  
     document.getElementById("hd").style.backgroundRepeat = "no-repeat";
     document.getElementById("hd").style.backgroundSize = "cover"; 
     document.getElementById("hd").style.backgroundPosition = "center";
