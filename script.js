@@ -20,7 +20,7 @@ function ip() {
     document.getElementById("btn").style.borderColor = "#fff";
 
 
-    model("500$", "128 GB", "780$", "256 GB", "100$", "512 GB");
+    model("500$", "128 GB", "780$", "256 GB", "1000$", "512 GB");
 
 
     if (attachip == true) {
