@@ -258,6 +258,8 @@ section{
     padding: 100px 200px;
 }
 
+	
+
 @media  (max-width:480px) {
 	nav .btn{
 		padding: 0.5em;
