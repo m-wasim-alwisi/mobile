@@ -263,7 +263,8 @@ section{
 @media  (max-width:480px) {
 	nav .btn{
 		padding: 0.5em;
-
+		margin-left: 20%;
+		margin-right: 10%;
 	}
 	nav ul li a{
 		
@@ -277,7 +278,13 @@ section{
 	}
 }
 
+
+
 @media  (max-width:1023px) {
+
+	.head .ulphone {
+		margin-top: 0;
+	}
 	nav{
 		
 		grid-template-columns: auto auto;
@@ -288,7 +295,8 @@ section{
 		grid-column:span 2;
 	}
 	nav .btn{
-		margin-right: 1.2em; 
+		margin-left: 40%;
+		margin-right: 10%;
 		text-align: center;
 		grid-column: 2;
 		grid-row: 1;
